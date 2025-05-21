@@ -1,0 +1,6 @@
+[wokwi]
+version = 1
+firmware = "../../.pio/build/esp32doit-devkit-v1/firmware.bin"
+elf = ""
+project = "FarmTechESP32"
+board = "esp32doit-devkit-v1"

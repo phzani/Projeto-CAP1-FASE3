@@ -1,0 +1,7 @@
+# Exemplo de dados coletados do Serial Monitor para testes SQL
+# Copie e cole linhas reais do monitor serial aqui para simulação
+Fosforo: AUSENTE | Potassio: AUSENTE | pH: 3.00 | Umidade: 40.0% | Bomba: LIGADA | Motivo: [Nutriente ausente] [pH fora do ideal]
+Fosforo: PRESENTE | Potassio: PRESENTE | pH: 6.00 | Umidade: 51.5% | Bomba: DESLIGADA
+Fosforo: PRESENTE | Potassio: AUSENTE | pH: 6.00 | Umidade: 51.5% | Bomba: LIGADA | Motivo: [Nutriente ausente]
+Fosforo: PRESENTE | Potassio: PRESENTE | pH: 4.00 | Umidade: 51.5% | Bomba: LIGADA | Motivo: [pH fora do ideal]
+Fosforo: PRESENTE | Potassio: PRESENTE | pH: 7.00 | Umidade: 51.5% | Bomba: DESLIGADA
