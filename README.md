@@ -4,7 +4,7 @@
 
 Este projeto simula um sistema de irrigação inteligente utilizando ESP32, sensores de umidade, nutrientes (fósforo e potássio) e pH (simulado por LDR). O sistema aciona uma bomba d'água automaticamente conforme os valores dos sensores.
 
-![Vídeo DEMO](https://youtu.be/t1nODkt-Wig)
+[![Vídeo DEMO](https://img.youtube.com/vi/t1nODkt-Wig/0.jpg)](https://youtu.be/t1nODkt-Wig)
 
 ## Componentes Simulados
 
